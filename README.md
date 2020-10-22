@@ -1,0 +1,2 @@
+# Colorimeter-usinf-Arduino-LEDs-and-Ldr
+The colorimeters are highly sensitive devices that can measure the concentration and intensity of a particular color that is used in a product. There are mainly two different types of colorimeters that are used in industries that are color densitometers and color photometers. The color densitometers measure the color density of primary colors in a color combination in a test sample. The color photometers are used for measuring the reflectance of a color as well as the transmission.
